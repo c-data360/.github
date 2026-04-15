@@ -17,13 +17,13 @@ Ces fichiers s'accumulent dans `.changeset/` au fil des PR, puis sont consommés
 
 ## Quand créer un changeset ?
 
-| Situation | Changeset ? |
-|---|---|
-| Nouvelle fonctionnalité visible par l'utilisateur | ✅ `minor` |
-| Correction de bug | ✅ `patch` |
-| Breaking change (API, contrat, schéma) | ✅ `major` |
-| Refactoring interne, style, docs | ❌ Non |
-| Mise à jour de dépendances (sans impact API) | ❌ Non |
+| Situation                                         | Changeset ? |
+| ------------------------------------------------- | ----------- |
+| Nouvelle fonctionnalité visible par l'utilisateur | ✅ `minor`  |
+| Correction de bug                                 | ✅ `patch`  |
+| Breaking change (API, contrat, schéma)            | ✅ `major`  |
+| Refactoring interne, style, docs                  | ❌ Non      |
+| Mise à jour de dépendances (sans impact API)      | ❌ Non      |
 
 ---
 
@@ -36,6 +36,7 @@ pnpm changeset
 ```
 
 Un assistant interactif te demande :
+
 - Le ou les packages impactés
 - Le type de bump (`patch`, `minor`, `major`)
 - Un résumé du changement (affiché dans le changelog)
@@ -54,6 +55,7 @@ pnpm changeset:version
 ```
 
 Cette commande :
+
 - Lit tous les fichiers `.changeset/`
 - Met à jour les `package.json` concernés
 - Génère / met à jour les `CHANGELOG.md`
@@ -78,11 +80,11 @@ pnpm changeset publish
 
 ## Types de bump
 
-| Type | Quand | Exemple de version |
-|---|---|---|
-| `patch` | Bug fix, correction mineure | `1.2.3` → `1.2.4` |
-| `minor` | Nouvelle fonctionnalité rétrocompatible | `1.2.3` → `1.3.0` |
-| `major` | Breaking change | `1.2.3` → `2.0.0` |
+| Type    | Quand                                   | Exemple de version |
+| ------- | --------------------------------------- | ------------------ |
+| `patch` | Bug fix, correction mineure             | `1.2.3` → `1.2.4`  |
+| `minor` | Nouvelle fonctionnalité rétrocompatible | `1.2.3` → `1.3.0`  |
+| `major` | Breaking change                         | `1.2.3` → `2.0.0`  |
 
 ---
 

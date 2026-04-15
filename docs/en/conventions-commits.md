@@ -16,19 +16,19 @@ type(scope): short description
 
 ## Commit types
 
-| Type       | When to use                                    | Example                                      |
-| ---------- | ---------------------------------------------- | -------------------------------------------- |
-| `feat`     | New feature                                    | `feat: add Google authentication`            |
-| `fix`      | Bug fix                                        | `fix: resolve login crash`                   |
-| `hotfix`   | Urgent production fix                          | `hotfix: patch JWT token security flaw`      |
-| `refactor` | Refactoring without functional change          | `refactor: simplify auth service`            |
-| `style`    | Formatting, whitespace, commas (no logic)      | `style: format Header component`             |
-| `docs`     | Documentation only                             | `docs: update README`                        |
-| `test`     | Add or modify tests                            | `test: add unit tests for user service`      |
-| `chore`    | Maintenance, dependencies, config              | `chore: update npm dependencies`             |
-| `perf`     | Performance improvement                        | `perf: optimize SQL query in dashboard`      |
-| `ci`       | CI/CD pipeline changes                         | `ci: add lint job`                           |
-| `revert`   | Revert a previous commit                       | `revert: revert feat Google login`           |
+| Type       | When to use                               | Example                                 |
+| ---------- | ----------------------------------------- | --------------------------------------- |
+| `feat`     | New feature                               | `feat: add Google authentication`       |
+| `fix`      | Bug fix                                   | `fix: resolve login crash`              |
+| `hotfix`   | Urgent production fix                     | `hotfix: patch JWT token security flaw` |
+| `refactor` | Refactoring without functional change     | `refactor: simplify auth service`       |
+| `style`    | Formatting, whitespace, commas (no logic) | `style: format Header component`        |
+| `docs`     | Documentation only                        | `docs: update README`                   |
+| `test`     | Add or modify tests                       | `test: add unit tests for user service` |
+| `chore`    | Maintenance, dependencies, config         | `chore: update npm dependencies`        |
+| `perf`     | Performance improvement                   | `perf: optimize SQL query in dashboard` |
+| `ci`       | CI/CD pipeline changes                    | `ci: add lint job`                      |
+| `revert`   | Revert a previous commit                  | `revert: revert feat Google login`      |
 
 ---
 
