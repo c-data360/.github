@@ -99,7 +99,7 @@ git push origin release/v1.2.0
 
 ### Naming rules
 
-- ✅ **In English** — like commits and code
+- ✅ **In English** - like commits and code
 - ✅ Lowercase only
 - ✅ Hyphens `-` to separate words (no underscore `_`, no spaces)
 - ✅ Short but descriptive name

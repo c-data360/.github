@@ -1,4 +1,4 @@
-# 📦 Changesets — Versioning & Changelog
+# 📦 Changesets - Versioning & Changelog
 
 We use **[Changesets](https://github.com/changesets/changesets)** to manage semantic versioning and automatic changelog generation.
 
@@ -6,7 +6,7 @@ We use **[Changesets](https://github.com/changesets/changesets)** to manage sema
 
 ## Principle
 
-Every significant code change must be accompanied by a **changeset** — a small file describing the nature of the change (`patch`, `minor`, `major`) and a human-readable summary.
+Every significant code change must be accompanied by a **changeset** - a small file describing the nature of the change (`patch`, `minor`, `major`) and a human-readable summary.
 
 These files accumulate in `.changeset/` across PRs, then are consumed during a release to:
 
@@ -40,14 +40,14 @@ An interactive prompt will ask:
 - The bump type (`patch`, `minor`, `major`)
 - A summary of the change (displayed in the changelog)
 
-A file is created in `.changeset/` — **commit it with your code**.
+A file is created in `.changeset/` - **commit it with your code**.
 
 ```bash
 git add .changeset/
 git commit -m "chore: add changeset for feat(auth)"
 ```
 
-### 2. On release — bump versions
+### 2. On release - bump versions
 
 ```bash
 pnpm changeset:version

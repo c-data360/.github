@@ -47,7 +47,7 @@ refactor(api): restructure user routes
 ## Rules
 
 - ✅ Description in **lowercase**
-- ✅ Description in **English** — commits, like code, are in English
+- ✅ Description in **English** - commits, like code, are in English
 - ✅ **Short** description (less than 72 characters)
 - ✅ Present tense: "add..." not "added..."
 - ❌ No period at the end

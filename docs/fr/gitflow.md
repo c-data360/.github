@@ -99,7 +99,7 @@ git push origin release/v1.2.0
 
 ### Règles de nommage
 
-- ✅ **En anglais** — comme les commits et le code
+- ✅ **En anglais** - comme les commits et le code
 - ✅ Minuscules uniquement
 - ✅ Tirets `-` pour séparer les mots (pas d'underscore `_`, pas d'espace)
 - ✅ Nom court mais descriptif

@@ -47,7 +47,7 @@ refactor(api): restructuration des routes utilisateur
 ## Règles
 
 - ✅ Description en **minuscules**
-- ✅ Description en **anglais** — les commits, comme le code, sont en anglais
+- ✅ Description en **anglais** - les commits, comme le code, sont en anglais
 - ✅ Description **courte** (moins de 72 caractères)
 - ✅ Temps présent : "add..." et non "added..."
 - ❌ Pas de point à la fin

@@ -10,12 +10,12 @@
 
 | Service | Description |
 | --- | --- |
-| **Développement web** | Sites institutionnels, applications web, plateformes SaaS — performance, SEO, i18n |
-| **Développement mobile** | Applications iOS et Android — Flutter, React Native/Expo |
-| **Backends & APIs** | APIs REST et services backend — Python/FastAPI, Spring Boot, Node.js |
+| **Développement web** | Sites institutionnels, applications web, plateformes SaaS - performance, SEO, i18n |
+| **Développement mobile** | Applications iOS et Android - Flutter, React Native/Expo |
+| **Backends & APIs** | APIs REST et services backend - Python/FastAPI, Spring Boot, Node.js |
 | **Conseil & architecture** | Audit technique, choix de stack, architecture cloud et scalabilité |
 | **Formation & Academy** | Programmes de montée en compétences pour les équipes et professionnels africains |
-| **Recherche appliquée** | IA, data, automatisation — de la preuve de concept à la mise en production |
+| **Recherche appliquée** | IA, data, automatisation - de la preuve de concept à la mise en production |
 
 ---
 
@@ -64,8 +64,8 @@ Chaque repository suit les mêmes conventions, que tout ingénieur lit avant d'�
 
 | Document | Rôle |
 | --- | --- |
-| [Onboarding](../docs/fr/onboarding.md) | Premiers pas — setup de l'environnement et checklist |
-| [GitFlow](../docs/fr/gitflow.md) | Stratégie de branches — feature, release, hotfix |
+| [Onboarding](../docs/fr/onboarding.md) | Premiers pas - setup de l'environnement et checklist |
+| [GitFlow](../docs/fr/gitflow.md) | Stratégie de branches - feature, release, hotfix |
 | [Conventions de commits](../docs/fr/conventions-commits.md) | Standard Conventional Commits |
 | [Process de Pull Request](../docs/fr/process-pr.md) | Règles de review et workflow de merge |
 | [Changesets](../docs/fr/changesets.md) | Versioning et génération automatique des changelogs |
@@ -74,8 +74,8 @@ Chaque repository suit les mêmes conventions, que tout ingénieur lit avant d'�
 
 | Document | Role |
 | --- | --- |
-| [Onboarding](../docs/en/onboarding.md) | First steps — environment setup and checklist |
-| [GitFlow](../docs/en/gitflow.md) | Branch strategy — feature, release, hotfix |
+| [Onboarding](../docs/en/onboarding.md) | First steps - environment setup and checklist |
+| [GitFlow](../docs/en/gitflow.md) | Branch strategy - feature, release, hotfix |
 | [Commit Conventions](../docs/en/conventions-commits.md) | Conventional Commits standard |
 | [Pull Request Process](../docs/en/process-pr.md) | Code review rules and merge workflow |
 | [Changesets](../docs/en/changesets.md) | Versioning and changelog automation |
@@ -84,4 +84,4 @@ Chaque repository suit les mêmes conventions, que tout ingénieur lit avant d'�
 
 ## Contact
 
-**c-data360.ai** — contact@c-data360.ai
+**c-data360.ai** - contact@c-data360.ai
