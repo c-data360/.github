@@ -60,6 +60,8 @@
 
 Chaque repository suit les mêmes conventions, que tout ingénieur lit avant d'écrire la moindre ligne de code.
 
+### 🇫🇷 Français
+
 | Document | Rôle |
 | --- | --- |
 | [Onboarding](../docs/fr/onboarding.md) | Premiers pas — setup de l'environnement et checklist |
@@ -67,6 +69,16 @@ Chaque repository suit les mêmes conventions, que tout ingénieur lit avant d'�
 | [Conventions de commits](../docs/fr/conventions-commits.md) | Standard Conventional Commits |
 | [Process de Pull Request](../docs/fr/process-pr.md) | Règles de review et workflow de merge |
 | [Changesets](../docs/fr/changesets.md) | Versioning et génération automatique des changelogs |
+
+### 🇬🇧 English
+
+| Document | Role |
+| --- | --- |
+| [Onboarding](../docs/en/onboarding.md) | First steps — environment setup and checklist |
+| [GitFlow](../docs/en/gitflow.md) | Branch strategy — feature, release, hotfix |
+| [Commit Conventions](../docs/en/conventions-commits.md) | Conventional Commits standard |
+| [Pull Request Process](../docs/en/process-pr.md) | Code review rules and merge workflow |
+| [Changesets](../docs/en/changesets.md) | Versioning and changelog automation |
 
 ---
 
