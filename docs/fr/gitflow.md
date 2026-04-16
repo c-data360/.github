@@ -1,4 +1,4 @@
-# 🌿 GitFlow C-DATA³⁶⁰
+# 🌿 GitFlow
 
 ## Vue d'ensemble
 

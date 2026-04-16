@@ -1,4 +1,4 @@
-# 🔁 Pull Request Process - C-DATA³⁶⁰
+# 🔁 Pull Request Process
 
 ## Fundamental rule
 

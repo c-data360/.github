@@ -1,4 +1,4 @@
-# 👋 Welcome to C-DATA³⁶⁰
+# 👋 Welcome to
 
 This document is your starting point. Read it entirely before writing a single line of code.
 

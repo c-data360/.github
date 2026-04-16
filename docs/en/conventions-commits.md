@@ -1,4 +1,4 @@
-# 📝 Commit Conventions - C-DATA³⁶⁰
+# 📝 Commit Conventions
 
 We follow the **[Conventional Commits](https://www.conventionalcommits.org/)** standard.
 
